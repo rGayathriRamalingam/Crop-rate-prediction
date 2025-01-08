@@ -1,87 +1,73 @@
-🌾 Crop Rate Prediction Using Neural Networks
+# 🌾 Crop Rate Prediction Using Neural Networks
 
 Welcome to the Agriculture Commodity Price Predictor Web App! This tool leverages advanced AI and machine learning to help agricultural stakeholders—including farmers, businesses, and government bodies—analyze price trends and forecast future commodity prices in real-time.
 
-🚀 Key Features
+## 🚀 Key Features
 
-📊 Price Prediction
+- **📊 Price Prediction**  
+  Forecast future prices of agricultural commodities based on historical data.
 
-Forecast future prices of agricultural commodities based on historical data.
+- **🌍 Multi-Region Support**  
+  Select specific states, districts, markets, and commodities to analyze.
 
-🌍 Multi-Region Support
+- **📅 Date Range Analysis**  
+  Predict prices for single or multiple dates and observe trends over time.
 
-Select specific states, districts, markets, and commodities to analyze.
+- **🧮 Correlation Heatmap**  
+  Visualize the relationship between various commodity prices for comprehensive insights.
 
-📅 Date Range Analysis
+- **💹 Volatility Analysis**  
+  Track price volatility to understand market fluctuations.
 
-Predict prices for single or multiple dates and observe trends over time.
+- **📈 Data Export**  
+  Export analytical data to CSV for offline use.
 
-🧮 Correlation Heatmap
+## 🛠️ Instructions
 
-Visualize the relationship between various commodity prices for comprehensive insights.
+1. **Select State, District, Market, and Commodity:**  
+   Use the dropdown menus on the left sidebar to choose the relevant details.
 
-💹 Volatility Analysis
+2. **Choose Prediction Date:**  
+   Input the desired date or date range for price prediction.
 
-Track price volatility to understand market fluctuations.
+3. **Predict:**  
+   Click the Predict Price button to get results instantly.
 
-📈 Data Export
+4. **Advanced Tools:**  
+   Utilize features like Price Trend, Correlation Heatmap, Price Comparison, and Volatility Analysis for deeper insights.
 
-Export analytical data to CSV for offline use.
+5. **Export:**  
+   Click the Export Data button to download predictions and historical data in CSV format.
 
-🛠️ Instructions
+## 📋 Technologies Used
 
-Select State, District, Market, and Commodity: Use the dropdown menus on the left sidebar to choose the relevant details.
+- **Languages:** Python
 
-Choose Prediction Date: Input the desired date or date range for price prediction.
+- **Libraries:** 
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
 
-Predict: Click the Predict Price button to get results instantly.
+- **Web Framework:** Streamlit
 
-Advanced Tools: Utilize features like Price Trend, Correlation Heatmap, Price Comparison, and Volatility Analysis for deeper insights.
+- **Report Generation:** FPDF
 
-Export: Click the Export Data button to download predictions and historical data in CSV format.
+## 🎯 How It Works
 
-📋 Technologies Used
+1. **Data Loading**  
+   The app loads historical commodity price data and allows filtering by state, district, market, and commodity.
 
-Languages: Python
+2. **Modeling**  
+   Price prediction models are trained using Linear Regression and ARIMA to forecast prices based on past trends.
 
-Libraries: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
+3. **Visualization**  
+   Real-time charts, heatmaps, and trend analyses provide actionable insights to enhance decision-making.
 
-Web Framework: Streamlit
+## 🔧 How to Run
 
-Report Generation: FPDF
-
-🎯 How It Works
-
-1. Data Loading
-
-The app loads historical commodity price data and allows filtering by state, district, market, and commodity.
-
-2. Modeling
-
-Price prediction models are trained using Linear Regression and ARIMA to forecast prices based on past trends.
-
-3. Visualization
-
-Real-time charts, heatmaps, and trend analyses provide actionable insights to enhance decision-making.
-
-🔧 How to Run
-
-Clone the repository:
-
-git clone https://github.com/rGayathriRamalingam/Crop-rate-prediction
-
-Navigate to the project directory:
-
-cd Crop-rate-prediction
-
-Install the dependencies:
-
-pip install -r requirements.txt
-
-Launch the app:
-
-streamlit run app.py
-
-Navigate to the provided local URL to use the app.
-
-Enjoy using the Crop Rate Prediction Web App to make data-driven agricultural decisions!
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/rGayathriRamalingam/Crop-rate-prediction
