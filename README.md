@@ -49,7 +49,8 @@ Visualization: Real-time charts, heatmaps, and trend analysis enhance decision-m
 
 Clone the repository.
 
-https://github.com/SHASHWAT-MISHRA-997/Agriculture_Commodity_Advance_Price_Predictor_Web_App.git
+[https://github.com/rGayathriRamalingam/Crop-rate-prediction.git
+]([url](https://github.com/rGayathriRamalingam/Crop-rate-prediction))
 
 Install dependencies:
 
