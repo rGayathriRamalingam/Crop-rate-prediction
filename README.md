@@ -1,4 +1,4 @@
-# 🌾 AI-ML Based Commodity Price Prediction System for Agri-Horticultural Markets: 
+#🌾 Crop Rate Prediction Using Neural Networks 🌾
 
 Welcome to the Agriculture Commodity Price Predictor Web App! This tool provides advanced AI and ML-based predictions to help agricultural stakeholders such as farmers, businesses and government bodies analyze price trends and forecast future commodity prices in real-time.
 
