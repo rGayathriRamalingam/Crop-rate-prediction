@@ -49,8 +49,7 @@ Visualization: Real-time charts, heatmaps, and trend analysis enhance decision-m
 
 Clone the repository.
 
-[https://github.com/rGayathriRamalingam/Crop-rate-prediction.git
-]([url](https://github.com/rGayathriRamalingam/Crop-rate-prediction))
+https://github.com/rGayathriRamalingam/Crop-rate-prediction
 
 Install dependencies:
 
