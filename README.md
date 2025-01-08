@@ -28,11 +28,6 @@ Advanced Tools: Use options such as Price Trend, Correlation Heatmap, Price Comp
 
 Export: Click Export Data to download predictions and historical data in CSV format.
 
-# 🧑‍💻 Developer:
-
-Shashwat Mishra
-
-
 # 📋 Technologies Used :
 
 Languages: Python
@@ -68,6 +63,3 @@ bash
 Copy code
 streamlit run app.py
 Navigate to the provided local URL to use the app.
-
-# 📦 Contribute : 
-Feel free to fork the repository and submit pull requests to improve the app.
