@@ -71,3 +71,11 @@ Welcome to the Agriculture Commodity Price Predictor Web App! This tool leverage
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/rGayathriRamalingam/Crop-rate-prediction
+
+2. **Install the Requirements:**  
+   ```bash
+   pip install requirements.txt
+
+3. **Run The App:**  
+   ```bash
+   streamlit run app.py
