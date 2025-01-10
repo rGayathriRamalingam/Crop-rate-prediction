@@ -257,6 +257,7 @@ else:
         except Exception as e:
             st.error(f"Error predicting prices: {e}")
 # Visualizations and trend analysis
+'''
 st.subheader("📈 Price Trend and Analysis : ")
 st.write("Visualize Price Trends, Correlation Heatmap, Price Comparison and Volatility for better decision-making.")
 
@@ -369,3 +370,4 @@ if st.button("Export Data to CSV"):
         file_name='commodity_prices.csv',
         mime='text/csv'
     )
+'''
